@@ -15,13 +15,13 @@ Taking a look at the datasets across the years, certain columns were common in a
 The 2018 dataset, a few of the amounts were in Rupees and the rest in dollars. The data type was changed to string and the rupees were converted to dollars using the average exchange rate in 2018.
 Similar cleaning was done for the 2018, 2019,2020 and 2021. After the data cleaning process, clean data from all the years were concatenated and merged into 1 dataframe with 2854 rows and 10 columns in total.
 Further univartiate and multivariate analysis was done to ascertain the distribution of data within the columns. these analysis were plotted using bargraph, box plot, histogram.
-the business questions were then answred
+The business questions were then answred
 
 ## Setup
-...(https://medium.com/p/e8c38173088f/edit)
+Numpy, Pandas, Matplotlib
 
 ## App Execution
-...https://app.powerbi.com/groups/me/reports/3ab3ea7b-1da3-433e-a575-5c0d7f4f9fe7/ReportSection?redirectedFromSignup=1
+https://app.powerbi.com/groups/me/reports/3ab3ea7b-1da3-433e-a575-5c0d7f4f9fe7/ReportSection?redirectedFromSignup=1
 
 ## Author
 Ama Chinbuah
